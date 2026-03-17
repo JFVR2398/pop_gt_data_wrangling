@@ -56,4 +56,3 @@ for (link in excel_mun) {
   Sys.sleep(3)
 }
 
-read_xlsx("ine_files/01-Guatemala.xlsx")
